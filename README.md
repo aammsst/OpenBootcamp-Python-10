@@ -8,3 +8,5 @@ En este ejercicio tenéis que crear una lista de RadioButton que muestre la opci
 
 Al principio no tiene que haber una opción seleccionada.
 
+# Ejercicio 2
+En este segundo ejercicio, tendréis que crear una interfaz sencilla la cual debe conener una lista de elementos seleccionables, tabién debe de tener un label con eñ texto que queráis.
